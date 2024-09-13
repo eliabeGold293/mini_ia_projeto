@@ -3,4 +3,5 @@ Com a biblioteca do 'streamlit' é gerada a página web onde o usuário poderá 
 Foi utilizado o gerenciador de pacotes 'poetry' para o gerenciamento do projeto.
 OBS: Este projeto foi feito na IDE do VScode, o qual configurei para poder utilizar o jupyter notebook e realizar os testes na folha 'testes.ipynb'.
 
-Os arquivos que possuem as dependências do projeto: 'project.toml' e 'poetry.lock'.
+Os arquivos que possuem as dependências do projeto: 'pyproject.toml' e 'poetry.lock'.
+OBS: O arquivo 'pyproject.toml' mostra uma visão mais geral das dependências do projeto.
