@@ -2,3 +2,5 @@ Este é um projeto simples de ia, onde o modelo de ia é treinado com os dados d
 Com a biblioteca do 'streamlit' é gerada a página web onde o usuário poderá interagir.
 Foi utilizado o gerenciador de pacotes 'poetry' para o gerenciamento do projeto.
 OBS: Este projeto foi feito na IDE do VScode, o qual configurei para poder utilizar o jupyter notebook e realizar os testes na folha 'testes.ipynb'.
+
+O arquivo com as dependências do projeto se encontram no arquivo: 'project.toml'.
